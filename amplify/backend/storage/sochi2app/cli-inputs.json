@@ -1,0 +1,14 @@
+{
+  "resourceName": "sochi2app",
+  "policyUUID": "eca2887f",
+  "bucketName": "sochi2appbucket",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
